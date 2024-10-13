@@ -1,0 +1,29 @@
+﻿cl : 命令行  warning D9025: 正在重写“/sdl”(用“/GS-”)
+  DES.cpp
+E:\作业\大二\应用密码学\2022142530034-敖瑞梅\DES\DES\DES.cpp(216,52): warning C4042: “final_result”: 有坏的存储类
+E:\作业\大二\应用密码学\2022142530034-敖瑞梅\DES\DES\DES.cpp(284,48): warning C4042: “mingwen_64”: 有坏的存储类
+E:\作业\大二\应用密码学\2022142530034-敖瑞梅\DES\DES\DES.cpp(532,20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\作业\大二\应用密码学\2022142530034-敖瑞梅\DES\DES\DES.cpp(533,20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\作业\大二\应用密码学\2022142530034-敖瑞梅\DES\DES\DES.cpp(535,20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\作业\大二\应用密码学\2022142530034-敖瑞梅\DES\DES\DES.cpp(573,20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\作业\大二\应用密码学\2022142530034-敖瑞梅\DES\DES\DES.cpp(574,20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\作业\大二\应用密码学\2022142530034-敖瑞梅\DES\DES\DES.cpp(576,20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\作业\大二\应用密码学\2022142530034-敖瑞梅\DES\DES\DES.cpp(581,20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\作业\大二\应用密码学\2022142530034-敖瑞梅\DES\DES\DES.cpp(588,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\作业\大二\应用密码学\2022142530034-敖瑞梅\DES\DES\DES.cpp(599,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\作业\大二\应用密码学\2022142530034-敖瑞梅\DES\DES\DES.cpp(610,14): warning C4018: “<”: 有符号/无符号不匹配
+E:\作业\大二\应用密码学\2022142530034-敖瑞梅\DES\DES\DES.cpp(624,20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\作业\大二\应用密码学\2022142530034-敖瑞梅\DES\DES\DES.cpp(625,20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\作业\大二\应用密码学\2022142530034-敖瑞梅\DES\DES\DES.cpp(627,20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\作业\大二\应用密码学\2022142530034-敖瑞梅\DES\DES\DES.cpp(632,20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\作业\大二\应用密码学\2022142530034-敖瑞梅\DES\DES\DES.cpp(639,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\作业\大二\应用密码学\2022142530034-敖瑞梅\DES\DES\DES.cpp(646,9): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\作业\大二\应用密码学\2022142530034-敖瑞梅\DES\DES\DES.cpp(653,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\作业\大二\应用密码学\2022142530034-敖瑞梅\DES\DES\DES.cpp(665,20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\作业\大二\应用密码学\2022142530034-敖瑞梅\DES\DES\DES.cpp(666,20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\作业\大二\应用密码学\2022142530034-敖瑞梅\DES\DES\DES.cpp(668,20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\作业\大二\应用密码学\2022142530034-敖瑞梅\DES\DES\DES.cpp(673,20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\作业\大二\应用密码学\2022142530034-敖瑞梅\DES\DES\DES.cpp(680,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\作业\大二\应用密码学\2022142530034-敖瑞梅\DES\DES\DES.cpp(687,9): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\作业\大二\应用密码学\2022142530034-敖瑞梅\DES\DES\DES.cpp(694,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  DES.vcxproj -> E:\作业\大二\应用密码学\2022142530034-敖瑞梅\DES\Debug\DES.exe
